@@ -21,8 +21,6 @@ Every detail matters. Every line has a purpose.
 ---
 
 ## Creative Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro" />
-</p>
+- Adobe Photoshop
+- Adobe After Effects
+- Adobe Premiere Pro
