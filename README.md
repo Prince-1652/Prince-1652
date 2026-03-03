@@ -21,6 +21,6 @@ Every detail matters. Every line has a purpose.
 ---
 
 **Creative Tools**
-- Adobe Photoshop
-- Adobe After Effects
-- Adobe Premiere Pro
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
