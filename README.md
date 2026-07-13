@@ -1,4 +1,4 @@
-# Hey, I'm Prince 👋
+# Hey, I'm Prince
 
 I'm a Developer building meaningful things and obsessed with perfection.
 
